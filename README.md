@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I am Akshay Baviskar</h1>
+<h1 align="center">Hi 👋🏻, I am Akshay </h1>
 <h3 align="center">Software Engineer | Web Developer | C# .NET Developer | Java Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
